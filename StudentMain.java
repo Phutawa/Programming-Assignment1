@@ -43,7 +43,7 @@ class StudentMain {
         String SearchFirstName = "";
 
         System.out.println("(-n) : Student ID \n(-f) : First Name\n(-l) : Last Name\n(-s) : Search student by their first name");
-        System.out.print("Input Command and Name's file (Ex. -f Class_Roaster 67.csv) :  ");
+        System.out.print("Input Command and Name's file (Ex. -f Class_Roaster67.csv) :  ");
 
         
         String intp = input.nextLine();
