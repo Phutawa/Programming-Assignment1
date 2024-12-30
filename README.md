@@ -116,6 +116,6 @@ Input : -l Class_Roaster67.csv
 672115048 SUKRITPONG  WONGPANYA
 672115043 WASINPAT  YANIN
 
-Input : -s PHUTAWAN Class_Roaster67.csv
+Input : -s Class_Roaster67.csv Phutawan
 
-The name PHUTAWAN was found at index 24
+The name Phutawan was found at index 24
